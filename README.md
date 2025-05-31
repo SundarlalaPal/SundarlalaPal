@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate tech enthusiast currently in Class 10, building real-world apps, websites, games, and AI systems like it's my second nature.  
+I'm a passionate tech enthusiast currently in Class 11, building real-world apps, websites, games, and AI systems like it's my second nature.  
 Programming started for me as a challenge — now it’s my lifestyle. I’m on a mission to be the **next-level Tony Stark** (without the billionaire part... for now 😉).
 
 > "I wasn't born a genius. I became one through sleepless nights, stubbornness, and pure passion."
